@@ -1,7 +1,7 @@
 ﻿To execute program please follow below:
 
 1. Run the executable file as normal 
-	in (Social.Network.Console/bin/Release/Social.Network.Console.exe)
+	in (ConsoleApp/Social.Network.Console.exe)
 
 2. enter user input as one of the followings:
 	- posting: [username] -> [message]
