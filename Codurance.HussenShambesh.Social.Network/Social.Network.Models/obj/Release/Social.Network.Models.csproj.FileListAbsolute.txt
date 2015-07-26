@@ -1,0 +1,8 @@
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Models\bin\Release\Social.Network.Models.dll
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Models\bin\Release\Social.Network.Models.pdb
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Models\obj\Release\Social.Network.Models.dll
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Models\obj\Release\Social.Network.Models.pdb
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Models\bin\Release\Social.Network.Models.dll
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Models\bin\Release\Social.Network.Models.pdb
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Models\obj\Release\Social.Network.Models.dll
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Models\obj\Release\Social.Network.Models.pdb

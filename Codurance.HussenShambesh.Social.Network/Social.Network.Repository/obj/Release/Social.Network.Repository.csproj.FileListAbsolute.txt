@@ -1,0 +1,14 @@
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\bin\Release\Social.Network.Repository.dll
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\bin\Release\Social.Network.Repository.pdb
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\bin\Release\Social.Network.Models.dll
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\bin\Release\Social.Network.Models.pdb
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\obj\Release\Social.Network.Repository.csprojResolveAssemblyReference.cache
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\obj\Release\Social.Network.Repository.dll
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\obj\Release\Social.Network.Repository.pdb
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\bin\Release\Social.Network.Repository.dll
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\bin\Release\Social.Network.Repository.pdb
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\bin\Release\Social.Network.Models.dll
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\bin\Release\Social.Network.Models.pdb
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\obj\Release\Social.Network.Repository.csprojResolveAssemblyReference.cache
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\obj\Release\Social.Network.Repository.dll
+C:\hks-projects\Codurance.HussenShambesh.Social.Network\Social.Network.Repository\obj\Release\Social.Network.Repository.pdb

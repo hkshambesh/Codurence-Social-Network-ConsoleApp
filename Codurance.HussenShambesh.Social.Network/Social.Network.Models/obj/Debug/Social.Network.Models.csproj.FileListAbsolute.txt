@@ -1,0 +1,4 @@
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Models\bin\Debug\Social.Network.Models.dll
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Models\bin\Debug\Social.Network.Models.pdb
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Models\obj\Debug\Social.Network.Models.dll
+C:\Users\hksha_000\Desktop\Mandara\Codurance.HussenShambesh.Social.Network\Social.Network.Models\obj\Debug\Social.Network.Models.pdb
